@@ -69,8 +69,8 @@ The calculator automatically displays:
 ## 🧑‍💻 Author
 
 **Your Name**  
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🌐 [github.com/yourusername](https://github.com/yourusername)
+📧 [kunalsonijsr@gmail.com](mailto:kunalsonijsr@gmail.com)  
+🌐 [github.com/kunalsonijsr](https://github.com/kunalsonijsr)
 
 ---
 
