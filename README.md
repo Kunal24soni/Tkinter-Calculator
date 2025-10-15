@@ -24,7 +24,7 @@ It supports basic arithmetic operations such as addition, subtraction, multiplic
 ### Steps
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/tkinter-calculator.git
+   git clone https://github.com/kunalsonijsr/tkinter-calculator.git
    ```
 2. Navigate to the project folder:
    ```bash
