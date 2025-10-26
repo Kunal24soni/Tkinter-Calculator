@@ -68,9 +68,10 @@ The calculator automatically displays:
 
 ## 🧑‍💻 Author
 
-**Your Name**  
-📧 [kunalsonijsr@gmail.com](mailto:kunalsonijsr@gmail.com)  
-🌐 [github.com/kunalsonijsr](https://github.com/kunalsonijsr)
+Kunal Soni
+Find me at:
+E-mail : 📧 [kunalsonijsr@gmail.com](mailto:kunalsonijsr@gmail.com)  
+Github : 🌐 [github.com/kunalsonijsr](https://github.com/kunalsonijsr)
 
 ---
 
