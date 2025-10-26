@@ -68,8 +68,8 @@ The calculator automatically displays:
 
 ## 🧑‍💻 Author
 
-Kunal Soni
-Find me at:
+Kunal Soni 
+
 E-mail : 📧 [kunalsonijsr@gmail.com](mailto:kunalsonijsr@gmail.com)  
 Github : 🌐 [github.com/kunalsonijsr](https://github.com/kunalsonijsr)
 
